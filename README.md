@@ -33,3 +33,5 @@ tag dasar html.</p>
 </body>
 </html>
 ```
+
+<img width="2880" height="1800" alt="hasil 2" src="https://github.com/user-attachments/assets/b7ecdf74-21c5-4bbc-b058-bc6c67457047" />
